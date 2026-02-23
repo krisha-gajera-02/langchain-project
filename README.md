@@ -41,18 +41,25 @@ Language	   Python
 
 
 1️⃣ Clone Repository
+
 git clone https://github.com/krisha-gajera-02/langchain-project
+
 cd ai_solution_consultant
 
 2️⃣ Create Virtual Environment
+
 python -m venv venv
+
 source venv/bin/activate   # Mac/Linux
+
 venv\Scripts\activate      # Windows
 
 3️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 ▶️ Run the Application
+
 streamlit run app.py
 
 
