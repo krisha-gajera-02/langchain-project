@@ -1,0 +1,9 @@
+Service: Data Analytics
+
+Description:
+We turn raw data into actionable insights using advanced analytics and visualization techniques.
+
+Use Cases:
+- Business intelligence dashboards
+- Data reporting
+- Data-driven decision making

@@ -1,0 +1,9 @@
+Service: Web & Mobile Development
+
+Description:
+We design and develop scalable web and mobile applications tailored to business needs.
+
+Use Cases:
+- Enterprise web apps
+- Customer-facing mobile apps
+- Progressive web applications

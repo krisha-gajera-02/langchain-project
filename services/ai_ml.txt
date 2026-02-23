@@ -1,0 +1,10 @@
+Service: Artificial Intelligence & Machine Learning
+
+Description:
+We help businesses implement AI and ML solutions to automate processes, improve decision-making, and enhance customer experience.
+
+Use Cases:
+- Predictive analytics
+- Chatbots and virtual assistants
+- Recommendation systems
+- Intelligent automation
