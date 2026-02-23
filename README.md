@@ -41,7 +41,7 @@ Language	   Python
 
 
 1️⃣ Clone Repository
-git clone <your-repo-url>
+git clone https://github.com/krisha-gajera-02/langchain-project
 cd ai_solution_consultant
 
 2️⃣ Create Virtual Environment
